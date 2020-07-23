@@ -3,4 +3,4 @@
 1. component
 2. prop
 3. emit
-4. model, binding ... 
+4. model, binding ... # todo-app
